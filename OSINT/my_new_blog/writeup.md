@@ -32,11 +32,15 @@ https://pastebin.com/$code
 
 *here is a important observation....if you catch.. you should be happy...else simply convert to ascii.*
 
+```
 72 239 189 129 118 101 226 128 135 239 189 129 32 108 206 191 206 191 107 226 128 131 239 189 129 116 226 128 135 116 104 209 150 239 189 147 226 128 131 239 189 153 111 239 189 149 226 128 134 119 105 108 108 32 102 105 110 100 32 115 111 109 101 116 104 105 110 103 32 115 112 101 99 105 97 108 32 104 116 116 112 115 58 47 47 112 97 115 116 101 98 105 110 46 99 111 109 47 36 99 111 100 101
+```
 and `ASCII to text`
 
+```
 Hａve ａ lοοk ａt thіｓ ｙoｕ will find something special https://pastebin.com/$tweet
 here is a twist. I searched a lot to decode it. And then found out 
+```
 
 https://holloway.nz/steg/
 
